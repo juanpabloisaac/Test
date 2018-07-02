@@ -19,7 +19,7 @@ namespace WindowsFormsDePrueba
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mary!");
+            MessageBox.Show("Hola Juan!");
         }
     }
 }
